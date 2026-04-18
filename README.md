@@ -43,7 +43,7 @@ The dataset is downloaded automatically via `kagglehub` when you run the noteboo
 ```
 ├── ML_SL_Final_Project_Group_11.ipynb   # Main notebook
 ├── requirements.txt                      # Python dependencies
-├── Group_11.pdf                          # Full project report
+├── Project Report.pdf                          # Full project report
 └── README.md
 ```
 
