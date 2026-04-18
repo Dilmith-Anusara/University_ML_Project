@@ -43,7 +43,7 @@ The dataset is downloaded automatically via `kagglehub` when you run the noteboo
 ```
 ├── ML_SL_Final_Project_Group_11.ipynb   # Main notebook
 ├── requirements.txt                      # Python dependencies
-├── Project Report.pdf                          # Full project report
+├── Project_Report.pdf                          # Full project report
 └── README.md
 ```
 
@@ -70,7 +70,7 @@ The dataset is downloaded automatically via `kagglehub` when you run the noteboo
 - Random Forest, Gradient Boosting, XGBoost, LightGBM
 - CatBoost, GAM
 
-For full details see [`Project Report.pdf`](./Project Report.pdf).
+For full details see [`Project_Report.pdf`](./Project_Report.pdf).
 
 ---
 
