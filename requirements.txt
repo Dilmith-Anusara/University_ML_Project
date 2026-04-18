@@ -1,0 +1,35 @@
+# Requirements for ML_SL_Final_Project_Group_11
+# Install with: pip install -r requirements.txt
+
+# Core data
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+
+# ML / Modeling
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
+catboost==1.2.10
+pygam==0.12.0
+
+# Clustering
+kmodes==0.12.2
+prince==0.17.0
+
+# Imputation
+miceforest==6.0.5
+
+# Explainability
+shap==0.51.0
+
+# EDA / Visualization
+matplotlib==3.10.0
+seaborn==0.13.2
+ydata-profiling==4.18.3
+
+# Stats
+statsmodels==0.14.6
+
+# Data source
+kagglehub==1.0.0
